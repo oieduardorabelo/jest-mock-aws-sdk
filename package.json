@@ -1,0 +1,10 @@
+{
+  "name": "jest-mock-aws-sdk",
+  "scripts": {
+    "test": "jest --no-cache --verbose"
+  },
+  "dependencies": {
+    "aws-sdk": "2.978.0",
+    "jest": "27.1.0"
+  }
+}
